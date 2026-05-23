@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+
+# Environment / Secrets
+.env
+*.env
+
+# Database
+*.db
+*.sqlite
+
+# Large media (auto-populated by scraper)
+senftest/backend/thumbnails/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
